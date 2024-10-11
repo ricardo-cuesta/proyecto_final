@@ -34,6 +34,8 @@ fecha de nacimiento
  grafico de peso / edad real e ideal del animal.
 datos de leche producida Vs periodo 
 
+
+
 La aplicación debe presentar al usuario un reporte del estado del animal.
 La aplicacion mostrara ,automatico, al usuario las fechas proximas de vacunas y antiparasitantes segun la fecha denacimiento.
 ademas de los planes que debe seguir de aseo, alimentacion, aplicacion de sales, desparasitantes
