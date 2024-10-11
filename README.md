@@ -1,5 +1,11 @@
 # proyecto_final
+## Justificacion del problema
+considerando que en la region del bajo cauca antioqueño predomina la cria de ganado y la produccion lactea, se encuentra con la necesidad de tener un inventario y una administracion adecuada de las reces.
+Las cuales requieren de cuidado y de un estricto proceso de alimentación , desparacitaje y vacuancion.
+corresponde a la creacion de una app. EL CAPATAZ VIRTUAL.
 
+Permitira que un ganadero y su grupo de trabajo tengan una herramienta util para el cuidado del ganado.
+#DESCRIPCION DE LA INGENIERIA APLICADA
 Este app realizara el inventario y administracion de una finca ganadera.
 tendra como nombre EL CAPATÁZ Virtual.
 
