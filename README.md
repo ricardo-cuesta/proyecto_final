@@ -23,15 +23,10 @@ sexo
 categoria
 fierro
 caracteristicas
-vacunas pendientes (fecha)
-vacunas aplicadas (fecha)
 estado 
  observaciones
 raza
-padre /madre
 fecha de nacimiento
- .fechas de gestacion
- dias de parto
  grafico de pesoVs edad real e ideal del animal.
 datos de leche producida Vs periodo 
 
