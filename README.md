@@ -5,7 +5,8 @@ Las cuales requieren de cuidado y de un estricto proceso de alimentación , desp
 corresponde a la creacion de una app. EL CAPATAZ VIRTUAL.
 
 Permitira que un ganadero y su grupo de trabajo tengan una herramienta util para el cuidado del ganado.
-#DESCRIPCION DE LA INGENIERIA APLICADA
+## DESCRIPCION DE LA INGENIERIA APLICADA
+
 Este app realizara el inventario y administracion de una finca ganadera.
 tendra como nombre EL CAPATÁZ Virtual.
 
