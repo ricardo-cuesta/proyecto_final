@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gestión de Alimentos</title>
+    <link rel="stylesheet" href="resources/css/styles.css">
+    <script type="module" src="main.js"></script>
+</head>
+<body>
+    <header>
+        <h1>Gestión de Alimentos</h1>
+    </header>
+
+    <main>
+        <section id="foods-list-section">
+            <h2>Lista de Alimentos</h2>
+            <div id="foods-list"></div>
+        </section>
+
+        <section id="add-edit-food-section">
+            <h2>Agregar nuevo alimento</h2>
+            <form id="food-form">
+                <input type="hidden" id="food-id"> 
+                <input type="text" id="food-name" placeholder="Nombre del alimento" required>
+                <input type="text" id="food-description" placeholder="Descripción del alimento" required>
+                <input type="text" id="food-image" placeholder="Imagen del alimento" required>
+                <input type="text" id="food-ingredients" placeholder="Ingredientes del alimento" required>
+                <button type="submit">Guardar Alimento</button>
+            </form>
+            <p id="error-message"></p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Gestión de Alimentos. Todos los derechos reservados.</p>
+        <p><strong>Nombre y Apellido:</strong> Ricardo Cuesta</p>
+    </footer>
+
+</body>
+</html>
