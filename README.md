@@ -38,6 +38,6 @@ La aplicación debe presentar al usuario un reporte del estado del animal.
 La aplicacion mostrara ,automatico, al usuario las fechas proximas de vacunas y antiparasitantes segun la fecha denacimiento.
 ademas de los planes que debe seguir de aseo, alimentacion, aplicacion de sales, desparasitantes
 
-
+x Ricardo Cuesta Sanchez cc.79540747.
 
 ![image](https://github.com/user-attachments/assets/4e95c19b-c4ee-45ed-a809-84bbb7b2ae41)
