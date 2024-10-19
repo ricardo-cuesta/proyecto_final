@@ -13,7 +13,7 @@ tendra como nombre EL CAPATÁZ Virtual.
 Estructura del contenido del sitio Web
 aplicación web sencilla con un frontend desarrollado con  HTML, CSS y Javascript. 
 Completada con su capa de backend y una base de datos.
-La aplicacion permite registrar al usuario y dar acceso 
+La aplicacion permite registrar al usuario y dar acceso (con perfiles de administrador y usuario)
 Tendra una interfaz grafica sencilla y amigable al usuario.
 
 
