@@ -22,26 +22,12 @@ Los usuarios administrador pueden acceder al módulo cargar y/o actualizar una d
 Los  animales se pueden buscar por el nombre o un id numerico del arete
 El sistema debe poder almacenar y visualizar por cada animal:
  
- id_arete
-nombre del animal
-raza
-foto
-sexo
-categoria
-fierro
-caracteristicas
-estado 
- observaciones
-raza
-fecha de nacimiento
- grafico de pesoVs edad real e ideal del animal.
-datos de leche producida Vs periodo 
 
 
 La aplicación debe presentar al usuario un reporte del estado del animal.
 La aplicacion mostrara ,automatico, al usuario las fechas proximas de vacunas y antiparasitantes segun la fecha denacimiento.
 ademas de los planes que debe seguir de aseo, alimentacion, aplicacion de sales, desparasitantes
 
-x Ricardo Cuesta Sanchez cc.79540747.
 
-![image](https://github.com/user-attachments/assets/4e95c19b-c4ee-45ed-a809-84bbb7b2ae41)
+
+x Ricardo Cuesta Sanchez cc.79540747.
